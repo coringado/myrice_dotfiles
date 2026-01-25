@@ -15,10 +15,8 @@
     "hyprland/workspaces"
   ],
   "modules-right": [
-    "wlr/taskbar",
     "pulseaudio/slider",
     "pulseaudio"
-    
   ],
   /* === Modules Left === */
   "custom/archicon": {
@@ -50,74 +48,6 @@
     "show-special": true
   },
   /* === Modules Right === */
-{
-  "layer": "top",
-  "position": "top",
-  "autohide": true,
-  "autohide-blocked": false,
-  "exclusive": true,
-  "passthrough": false,
-  "gtk-layer-shell": true,
-  /* === Modules Order === */
-  "modules-left": [
-    "custom/archicon",
-    "clock",
-    "cpu",
-    "memory",
-    "disk",
-    "temperature"
-  ],
-  "modules-center": [
-    "hyprland/workspaces"
-  ],
-  "modules-right": [
-    "wlr/taskbar",
-    "idle_inhibitor",
-    "pulseaudio/slider",
-    "pulseaudio",
-    "network",
-    "hyprland/language"
-  ],
-  /* === Modules Left === */
-  "custom/archicon": {
-    "format": "",
-    "on-click": "wofi --show drun",
-    "tooltip": false
-  },
-  "clock": {
-    "timezone": "America/Mexico_City",
-    "format": "{:%I:%M  %d, %m}",
-    "tooltip-format": "{calendar}",
-    "calendar": {
-      "mode": "month"
-    }
-  }
-  /* === Modules Center === */
-  "hyprland/workspaces": {
-    "format": "{icon}",
-    "format-icons": {
-      "default": "",
-      "active": ""
-    },
-    "persistent-workspaces": {
-      "*": 2
-    },
-    "disable-scroll": true,
-    "all-outputs": true,
-    "show-special": true
-  },
-  /* === Modules Right === */
-  "wlr/taskbar": {
-    "format": "{icon}",
-    "all-outputs": true,
-    "active-first": true,
-    "tooltip-format": "{name}",
-    "on-click": "activate",
-    "on-click-middle": "close",
-    "ignore-list": [
-      "rofi"
-    ]
-  },
   "pulseaudio/slider": {
     "format": "{volume}%",
     "format-muted": " MUTE",
