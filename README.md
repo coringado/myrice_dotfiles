@@ -1,2 +1,3 @@
 # myrice_dotfiles
-my first hyprland rice
+##my first hyprland rice
+###feeling cool
