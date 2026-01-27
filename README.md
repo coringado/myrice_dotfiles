@@ -1,3 +1,7 @@
 # myrice_dotfiles
+aaaa
+
 #my first hyprland rice
-##feeling cool
+aaa
+
+###feeling cool
