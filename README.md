@@ -11,4 +11,7 @@ Dependencies:
 ```
 waybar
 nerd-fonts
+```
+
+## terminal
 
