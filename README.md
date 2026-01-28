@@ -4,6 +4,6 @@
 
 ### my fun litte dotfiles 
 > use `stow` command to rice faster:)
->
-> ## waybar
-> 
+
+## waybar
+<img width="1280" height="55" alt="2026-01-28-004029_hyprshot" src="https://github.com/user-attachments/assets/836eaede-eb14-47c8-a908-830ff5cfc622" />
