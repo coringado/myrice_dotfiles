@@ -11,4 +11,4 @@ Dependencies:
 ```
 waybar
 nerd-fonts
-``
+
