@@ -17,6 +17,7 @@ nerd-fonts
 ```
 
 ## terminal
+<img width="629" height="287" alt="image" src="https://github.com/user-attachments/assets/616ff1d1-37c9-45c2-bf0d-a4ba7788e287" />
 
 Dependencies:
 ```
@@ -24,6 +25,7 @@ kitty
 ```
 
 ## file-manager
+<img width="1250" height="628" alt="image" src="https://github.com/user-attachments/assets/6bca2794-180d-4f83-bed8-02dcb549950a" />
 
 Dependencies:
 ```
