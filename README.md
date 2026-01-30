@@ -15,3 +15,16 @@ nerd-fonts
 
 ## terminal
 
+Dependencies:
+```
+kitty
+```
+
+## file-manager
+
+Dependencies:
+```
+thunar
+tumbler
+```
+
