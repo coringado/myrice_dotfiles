@@ -22,6 +22,8 @@ nerd-fonts
 Dependencies:
 ```
 kitty
+neofetch
+(use a AUR helper)
 ```
 
 ## file-manager
@@ -33,3 +35,11 @@ thunar
 tumbler
 ```
 
+## others
+
+```
+xdg-desktop-portal-hyprland
+pipewire
+swaync
+hyprshot
+```
