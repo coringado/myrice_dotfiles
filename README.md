@@ -42,4 +42,5 @@ xdg-desktop-portal-hyprland
 pipewire
 swaync
 hyprshot
+wofi
 ```
